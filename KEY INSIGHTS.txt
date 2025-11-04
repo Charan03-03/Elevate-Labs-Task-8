@@ -1,0 +1,11 @@
+KEY INSIGHTS: 
+
+--The business is heavily reliant on the West region. While this is good for overall performance, it represents a concentration risk. Strategy should focus on scaling best practices from the West (e.g., successful sales campaigns, effective logistics) and applying them to lower-performing regions.
+
+--The Central region is suffering from a lower Profit Margin compared to other regions, especially given its relatively high sales volume. An immediate investigation is needed into operational costs, high discount rates, or the mix of low-margin products (like Furniture) being sold predominantly in this area.
+
+--In the "Sales & Profit by Category" chart, the Furniture category shows a disproportionately high sales bar relative to its profit bar (the profit bar is very short compared to Technology and Office Supplies).
+
+--The business should look to increase the volume and share of Technology sales through targeted cross-selling to existing customers. This category offers the best return on investment for marketing and sales efforts.
+
+--The business should analyze the cost difference between Second Class and Standard Class shipping. If Second Class is used frequently but its associated margin is weak, it indicates that the extra cost is often not fully absorbed by the customer, leading to margin erosion.
